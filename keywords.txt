@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map SimpleStepper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+SimpleStepper	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Pin1	KEYWORD2
+Pin2	KEYWORD2
+Pin3	KEYWORD2
+Pin4	KEYWORD2
+CW	KEYWORD2
+CCW	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

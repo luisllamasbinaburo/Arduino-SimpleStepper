@@ -1,6 +1,6 @@
 # Librería Arduino SimpleStepper
 
-La librería SimpleStepper implementa las acciones necesarias para controlar un motor paso a paso bipolar, como el 28BYJ-48. Es una alternativa conveniente a clases más complejas como la librería Stepper.
+La librería SimpleStepper implementa las acciones necesarias para controlar un motor paso a paso unipolar, como el 28BYJ-48. Es una alternativa conveniente a clases más complejas como la librería Stepper.
 
 Más información https://www.luisllamas.es/libreria-arduino-simplestepper/
 
